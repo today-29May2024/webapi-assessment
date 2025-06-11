@@ -1,0 +1,35 @@
+@assessment_innocel_HostAddress = http://localhost:5087
+
+
+GET {{assessment_innocel_HostAddress}}/submittrxmessage
+Accept: application/json
+
+###
+
+POST {{assessment_innocel_HostAddress}}/submittrxmessage
+Accept: application/json
+
+{
+    "partnerKey": "FAKEGOOGLE",
+    "partnerRefNo": "FG-00001",
+    "partnerPassword": "RkFLRVBBU1NXT1JEMTIzNA==",
+    "totalAmount": 12345,
+    "items": [
+        {
+            "partnerItemRef": "i-00001",
+            "name": "Pen",
+            "qty": 4,
+            "unitPrice": 200
+        },
+        {
+            "partnerItemRef": "i-00002",
+            "name": "Ruler",
+            "qty": 2,
+            "unitPrice": 100
+        }
+    ],
+    "timestamp": "2024-08-15T02:11:22.0000000Z",
+    "sig": "MDE3ZTBkODg4ZDNhYzU0ZDBlZWRmNmU2NmUyOWRhZWU4Y2M1NzQ1OTIzZGRjYTc1ZGNjOTkwYzg2MWJlMDExMw=="
+}
+
+###
