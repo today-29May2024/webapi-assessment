@@ -1,0 +1,1 @@
+This repository was created for the upload of the source code solution to the assessment that the related hiring company. Refer to the link that contains the video for the showing of the done work and some test on it: https://drive.google.com/file/d/1aMwTlJGILcAliaE1ADGYWsWX6tjxv078/view?usp=sharing
