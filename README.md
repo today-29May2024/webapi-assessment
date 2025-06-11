@@ -1,1 +1,3 @@
 This repository was created for the upload of the source code solution to the assessment that the related hiring company. Refer to the link that contains the video for the showing of the done work and some test on it: https://drive.google.com/file/d/1aMwTlJGILcAliaE1ADGYWsWX6tjxv078/view?usp=sharing
+
+Other than showing related source code result for the assessment, this repository also serve as a place that keep the things I have done for the respective .NET technology and will be a reference for any future working on similar stuff. This repository may be make private, archive or even delete in future.
